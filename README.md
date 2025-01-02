@@ -10,9 +10,9 @@ User creation is anticipated to be possible within a few versions.
 
 ## Demo
 
-![screenshotopeningpage]()
+![screenshotopeningpage](./assets/login-board%20s2.png)
 
-![screenshotKanbanBoard]()
+![screenshotKanbanBoard](./assets/login-board%20s1.png)
 
 ## Link
 https://login-board-1.onrender.com/
